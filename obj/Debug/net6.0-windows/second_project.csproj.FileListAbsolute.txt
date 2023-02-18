@@ -1,0 +1,17 @@
+D:\Inai3\system programming 2\second_project\second_project\obj\Debug\net6.0-windows\second_project.csproj.AssemblyReference.cache
+D:\Inai3\system programming 2\second_project\second_project\obj\Debug\net6.0-windows\second_project.Form1.resources
+D:\Inai3\system programming 2\second_project\second_project\obj\Debug\net6.0-windows\second_project.csproj.GenerateResource.cache
+D:\Inai3\system programming 2\second_project\second_project\obj\Debug\net6.0-windows\second_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inai3\system programming 2\second_project\second_project\obj\Debug\net6.0-windows\second_project.AssemblyInfoInputs.cache
+D:\Inai3\system programming 2\second_project\second_project\obj\Debug\net6.0-windows\second_project.AssemblyInfo.cs
+D:\Inai3\system programming 2\second_project\second_project\obj\Debug\net6.0-windows\second_project.csproj.CoreCompileInputs.cache
+D:\Inai3\system programming 2\second_project\second_project\bin\Debug\net6.0-windows\second_project.exe
+D:\Inai3\system programming 2\second_project\second_project\bin\Debug\net6.0-windows\second_project.deps.json
+D:\Inai3\system programming 2\second_project\second_project\bin\Debug\net6.0-windows\second_project.runtimeconfig.json
+D:\Inai3\system programming 2\second_project\second_project\bin\Debug\net6.0-windows\second_project.dll
+D:\Inai3\system programming 2\second_project\second_project\bin\Debug\net6.0-windows\second_project.pdb
+D:\Inai3\system programming 2\second_project\second_project\obj\Debug\net6.0-windows\second_project.dll
+D:\Inai3\system programming 2\second_project\second_project\obj\Debug\net6.0-windows\refint\second_project.dll
+D:\Inai3\system programming 2\second_project\second_project\obj\Debug\net6.0-windows\second_project.pdb
+D:\Inai3\system programming 2\second_project\second_project\obj\Debug\net6.0-windows\second_project.genruntimeconfig.cache
+D:\Inai3\system programming 2\second_project\second_project\obj\Debug\net6.0-windows\ref\second_project.dll
